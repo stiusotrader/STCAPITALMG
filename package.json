@@ -1,0 +1,8 @@
+{
+  "name": "st-capital-dashboard",
+  "version": "1.0.0",
+  "description": "ST Capital Market Dashboard",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
